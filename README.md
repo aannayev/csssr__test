@@ -20,8 +20,9 @@ https://www.figma.com/design/CtJDsg3EvAYWFfY7bEMeKZ/QA-%D1%82%D0%B5%D1%81%D1%82?
 
 как на сайте
 
-![[Pasted image 20241220174805.png]]
+![[]]
 
+![Alt text](Pasted image 20241220174805.png)
 как должно быть 
 ![[Pasted image 20241220174724.png]]
 
