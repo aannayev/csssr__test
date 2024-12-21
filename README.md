@@ -15,16 +15,14 @@ https://www.figma.com/design/CtJDsg3EvAYWFfY7bEMeKZ/QA-%D1%82%D0%B5%D1%81%D1%82?
 # Первый блок 
 1)  расстояния между буквами не соответствует макету. жирность  (letter-spacing, line-height, font-weight)
 2) Отступу не соответствую макету 
-3) ![[Pasted image 20241221104641.png]]
+3) ![Alt text](img3.png)
 вместо текста использования фотография  это плохо для SEO - в хорошей практикой считается что на каждой странице должно быть **только один  H1** тэг
 
 как на сайте
 
-![[]]
-
-![Alt text](img1.png)
+![Alt text](img2.png)
 как должно быть 
-![[Pasted image 20241220174724.png]]
+![Alt text](img1.png)
 
 1) я бы добавил **ARIA атрибуты**  `aria-labelledby` и `aria-describedby`
 ```html
