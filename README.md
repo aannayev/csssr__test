@@ -22,11 +22,11 @@ https://www.figma.com/design/CtJDsg3EvAYWFfY7bEMeKZ/QA-%D1%82%D0%B5%D1%81%D1%82?
 
 ![[]]
 
-![Alt text](Pasted image 20241220174805.png)
+![Alt text](img1.png)
 как должно быть 
 ![[Pasted image 20241220174724.png]]
 
-4) я бы добавил **ARIA атрибуты**  `aria-labelledby` и `aria-describedby`
+1) я бы добавил **ARIA атрибуты**  `aria-labelledby` и `aria-describedby`
 ```html
 <section class="jobInfo" role="region" aria-labelledby="jobInfoHeading">
   <h1 id="jobInfoHeading">КРАТКОЕ СОДЕРЖАНИЕ ВАКАНСИИ</h1>
